@@ -9,7 +9,8 @@ h1 {
 }
 
 p {
-    text-align: center;
+    display: grid;
+    place-items: center;
     font-size: 35px;
     line-height: 2;
 }
