@@ -19,13 +19,12 @@ p {
 
 #s9down {
     text-align: center;
-    padding-bottom: 1.25% ;
     font-size: 48px;
 }
 
 #map1 {
     text-align: center;
-    padding-bottom: 4%;
+    padding-bottom: 3%;
     font-size: 48px;
 }
 
@@ -44,7 +43,7 @@ p {
     text-align: center;
   }
 #twt1 {
-    text-indent: 540.5px;
+    text-indent: 440.5px;
     display: inline-block;
     font-size: 32px;
     padding-right: 325.5px;
