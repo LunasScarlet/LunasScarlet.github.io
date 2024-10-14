@@ -15,7 +15,6 @@ p {
     letter-spacing: 1;
 }
 
-#hyper {
-    text-align: center;
-    font-size: 10px;
-  }
+a {
+    color: blue;
+}
