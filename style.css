@@ -9,9 +9,8 @@ h1 {
 }
 
 p {
-    display: grid;
-    place-items: center;
-    font-size: 35px;
+    text-align: center;
+    font-size: 50px;
     line-height: 2;
 }
 
@@ -21,8 +20,8 @@ a {
     text-shadow: 1px 1px black;
     font-weight: bold;
     background-image: url('blackopaque.png');
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 body {
