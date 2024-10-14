@@ -2,18 +2,63 @@ html {
     font-size: 25px;
     font-family: "Open Sans", sans-serif;
   }
-
 h1 {
     font-size: 60px;
     text-align: center;
 }
-
 p {
     text-align: center;
     font-size: 48px;
     line-height: 2;
 }
+#s8down {
+    text-align: center;
+    padding-bottom: 1.25% ;
+    font-size: 32px;
+}
 
+#s9down {
+    text-align: center;
+    padding-bottom: 1.25% ;
+    font-size: 48px;
+}
+
+#map1 {
+    text-align: center;
+    padding-bottom: 4%;
+    font-size: 48px;
+}
+
+#mdrth1 {
+    text-align: center;
+    padding-bottom: 1.5%;
+    font-size: 48px;
+}
+#csfg1 {
+    text-align: center;
+    padding-bottom: 1.5%;
+    font-size: 48px;
+}
+#disc1 {
+    font-size: 35px;
+    text-align: center;
+  }
+#twt1 {
+    text-indent: 540.5px;
+    display: inline-block;
+    font-size: 32px;
+    padding-right: 325.5px;
+}
+#yt1 {
+    display: inline-block;
+    font-size: 32px;
+    padding-left: 20px;
+}
+#mbs1 {   
+    text-align: center;
+    padding-bottom: 1;
+    font-size: 35px;
+}
 a {
     text-decoration: none;
     color: white;
@@ -23,7 +68,6 @@ a {
     border-radius: 10px;
     padding: 10px;
 }
-
 body {
     background-image: url('websitebackground.png');
     background-repeat: no-repeat;
