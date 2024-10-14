@@ -20,5 +20,8 @@ a {
 }
 
 body {
-    background-color: aquamarine;
+    background-image: url('wbackground.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
