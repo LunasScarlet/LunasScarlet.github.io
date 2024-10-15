@@ -71,6 +71,23 @@ a:hover {
     color:lightblue;
     font-size: 105%;
 }
+
+#nav {
+    background-image: url('');
+    color: black;
+    font-weight: lighter;
+}
+#nav:hover {
+    color:black;
+    font-size: 125%;
+}
+#navpg {
+    font-weight: lighter;
+    background-image: url('');
+    font-size: 90%;
+}
+
+
 body {
     background-image: url('websitebackground.png');
     background-repeat: no-repeat;
