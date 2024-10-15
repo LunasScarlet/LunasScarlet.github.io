@@ -14,7 +14,7 @@ p {
 #s8down {
     text-align: center;
     padding-bottom: 1.25% ;
-    font-size: 32px;
+    font-size: 20px;
 }
 
 #s9down {
@@ -24,18 +24,18 @@ p {
 
 #map1 {
     text-align: center;
-    padding-bottom: 3%;
+    padding-bottom: 2%;
     font-size: 48px;
 }
 
 #mdrth1 {
     text-align: center;
-    padding-bottom: 1.5%;
+    padding-bottom: 1.35%;
     font-size: 48px;
 }
 #csfg1 {
     text-align: center;
-    padding-bottom: 1.5%;
+    padding-bottom: 1.35%;
     font-size: 48px;
 }
 #disc1 {
@@ -85,6 +85,10 @@ a:hover {
     font-weight: lighter;
     background-image: url('');
     font-size: 90%;
+}
+
+#wbhd {
+    padding-top: 10px;
 }
 
 
