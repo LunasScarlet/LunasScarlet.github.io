@@ -19,24 +19,24 @@ p {
 
 #s9down {
     text-align: center;
-    font-size: 48px;
+    font-size: 45px;
 }
 
 #map1 {
     text-align: center;
     padding-bottom: 2%;
-    font-size: 48px;
+    font-size: 45px;
 }
 
 #mdrth1 {
     text-align: center;
     padding-bottom: 1.35%;
-    font-size: 48px;
+    font-size: 45px;
 }
 #csfg1 {
     text-align: center;
     padding-bottom: 1.35%;
-    font-size: 48px;
+    font-size: 45px;
 }
 #disc1 {
     font-size: 35px;
@@ -79,7 +79,7 @@ a:hover {
 }
 #nav:hover {
     color:black;
-    font-size: 125%;
+    font-size: 105%;
 }
 #navpg {
     font-weight: lighter;
