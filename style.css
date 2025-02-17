@@ -13,13 +13,20 @@ p {
 }
 #s8down {
     text-align: center;
+    padding-top: 1%;
     padding-bottom: 1.25% ;
     font-size: 20px;
 }
 
 #s9down {
     text-align: center;
-    font-size: 45px;
+    font-size: 30px;
+    padding-bottom:5%;
+}
+#s10down {
+    text-align: center;
+    font-size: 60px;
+    padding-bottom:5%;
 }
 
 #map1 {
@@ -69,7 +76,7 @@ a {
 }
 a:hover {
     color:lightblue;
-    font-size: 105%;
+    font-size: 125%;
 }
 
 #nav {
@@ -93,8 +100,9 @@ a:hover {
 
 
 body {
-    background-image: url('websitebackground.png');
+    background-position: 10%;
+    background-image: url('whitelistsmpdead.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
 }
