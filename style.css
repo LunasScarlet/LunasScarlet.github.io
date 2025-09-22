@@ -65,8 +65,9 @@ p {
 }
 #disc1 {
     font-size: 50px;
+    font-weight: bold;
     text-align: center;
-        padding-bottom: 1.5%;
+    padding-bottom: 1.5%;
   }
 #twt1 {
     text-indent: 440.5px;
