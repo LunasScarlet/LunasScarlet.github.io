@@ -31,18 +31,9 @@ p {
 }
 
 
-#returningsoon {
+#versionnumber {
     text-align: center;
-    padding-bottom: 20px;
-    -webkit-text-stroke: 2.5px;
-    -webkit-text-stroke-color: rgb(3, 3, 3);
-    font-size: 75px;
-    text-decoration: none;
-    color: white;
-    text-shadow: 1px 1px black;
-    font-weight: bold;
-    background-image: url('blackopaque.png');
-    border-radius: 10px;
+    font-size: 20px;
 }
 
 #s11down {
@@ -106,13 +97,8 @@ a {
 a:hover {
     color:lightblue;
     font-size: 125%;
-    align-self: center;
 }
-#downloads {
-    text-align: center;
-        font-size: 60px;
-            padding-top: 20px;
-}
+
 #nav {
     background-image: url('');
     color: black;
@@ -128,9 +114,6 @@ a:hover {
     font-size: 90%;
 }
 
-#mainwbhd {
-    padding-top: 240px;
-}
 #wbhd {
     padding-top: 10px;
 }
@@ -138,7 +121,7 @@ a:hover {
 
 body {
     background-position: 10%;
-    background-image: url('websitebackground.png');
+    background-image: url('whitelistsmpdead.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
