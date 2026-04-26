@@ -48,6 +48,11 @@ p {
     padding-bottom: 5%;
 }
 
+#downloads {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 5%;
+}
 #map1 {
     text-align: center;
     padding-bottom: 2%;
@@ -95,7 +100,7 @@ a {
 }
 a:hover {
     color:lightblue;
-    font-size: 125%;
+    font-size: 110%;
 }
 
 #nav {
@@ -117,10 +122,13 @@ a:hover {
     padding-top: 10px;
 }
 
+#returningsoon {
+    padding-top: 250px;
+}
+
 
 body {
-    background-position: 10%;
-    background-image: url('whitelistsmpdead.png');
+    background-image: url('websitebackground.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
