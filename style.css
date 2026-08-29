@@ -52,7 +52,12 @@ p {
     font-size: 35px;
 }
 
-#downloads {
+#smpdownloads {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 5%;
+}
+#eventdownloads {
     text-align: center;
     font-size: 35px;
     padding-top: 5%;
